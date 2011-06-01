@@ -1,0 +1,2 @@
+If you need full functional template to render you web page, you may want Jinja or something else.
+But when you just need a simple template renderer which can tolerant some incomplete marks(eg: email template, message template), this is a perfect tool which is fast.
